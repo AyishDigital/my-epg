@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="mekkah">
+    <display-name>LIVE MAKKAH</display-name>
+  </channel>
+
+  <programme start="20261110000000 +0800" stop="20261110120000 +0800" channel="mekkah">
+    <title>Siaran Langsung Makkah Al-Mukarramah</title>
+  </programme>
+</tv>
