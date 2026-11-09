@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <channel id="mekkah">
-    <display-name>LIVE MAKKAH</display-name>
-  </channel>
-
-  <!-- Slot 1: 12:00 Pagi - 6:00 Pagi -->
-  <programme start="20261110000000 +0800" stop="20261110060000 +0800" channel="mekkah">
-    <title>Siaran Langsung Makkah Al-Mukarramah</title>
-  </programme>
-
-  <!-- Slot 2: 6:00 Pagi - 12:00 Tengah Hari -->
-  <programme start="20261110060000 +0800" stop="20261110120000 +0800" channel="mekkah">
-    <title>Siaran Langsung Makkah Al-Mukarramah</title>
-  </programme>
-
-  <!-- Slot 3: 12:00 Tengah Hari - 6:00 Petang -->
-  <programme start="20261110120000 +0800" stop="20261110180000 +0800" channel="mekkah">
-    <title>Siaran Langsung Makkah Al-Mukarramah</title>
-  </programme>
-
-  <!-- Slot 4: 6:00 Petang - 12:00 Malam -->
-  <programme start="20261110180000 +0800" stop="20261111000000 +0800" channel="mekkah">
-    <title>Siaran Langsung Makkah Al-Mukarramah</title>
-  </programme>
-</tv>
+<?xml version='1.0' encoding='utf-8'?>
+<tv><channel id="mekkah"><display-name lang="ms">LIVE MAKKAH</display-name></channel><programme start="20261109000000 +0800" stop="20261109060000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 1)</title></programme><programme start="20261109060000 +0800" stop="20261109120000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 2)</title></programme><programme start="20261109120000 +0800" stop="20261109180000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 3)</title></programme><programme start="20261109180000 +0800" stop="20261110000000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 4)</title></programme><programme start="20261110000000 +0800" stop="20261110060000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 1)</title></programme><programme start="20261110060000 +0800" stop="20261110120000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 2)</title></programme><programme start="20261110120000 +0800" stop="20261110180000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 3)</title></programme><programme start="20261110180000 +0800" stop="20261111000000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 4)</title></programme><programme start="20261111000000 +0800" stop="20261111060000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 1)</title></programme><programme start="20261111060000 +0800" stop="20261111120000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 2)</title></programme><programme start="20261111120000 +0800" stop="20261111180000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 3)</title></programme><programme start="20261111180000 +0800" stop="20261112000000 +0800" channel="mekkah"><title lang="ms">Siaran Langsung Makkah (Sesi 4)</title></programme></tv>
