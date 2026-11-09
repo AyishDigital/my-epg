@@ -3,7 +3,10 @@ name: Auto Generate EPG
 on:
   schedule:
     - cron: '0 0 * * *' # Dijalankan setiap hari pada pukul 12:00 tengah malam UTC
-  workflow_dispatch: # Membolehkan anda tekan butang 'Run' secara manual di GitHub bila-bila masa
+  workflow_dispatch: # Membolehkan anda tekan butang 'Run' secara manual bila-bila masa
+
+permissions:
+  contents: write
 
 jobs:
   build:
