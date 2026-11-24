@@ -4,18 +4,6 @@
     <display-name lang="ms">LIVE MAKKAH</display-name>
     <icon src="https://i.imgur.com/5ohs2WT.png"/>
   </channel>
-  <programme start="20261123000000 +0800" stop="20261123060000 +0800" channel="mekkah">
-    <title lang="ms">Siaran Langsung Makkah (Sesi 1)</title>
-  </programme>
-  <programme start="20261123060000 +0800" stop="20261123120000 +0800" channel="mekkah">
-    <title lang="ms">Siaran Langsung Makkah (Sesi 2)</title>
-  </programme>
-  <programme start="20261123120000 +0800" stop="20261123180000 +0800" channel="mekkah">
-    <title lang="ms">Siaran Langsung Makkah (Sesi 3)</title>
-  </programme>
-  <programme start="20261123180000 +0800" stop="20261124000000 +0800" channel="mekkah">
-    <title lang="ms">Siaran Langsung Makkah (Sesi 4)</title>
-  </programme>
   <programme start="20261124000000 +0800" stop="20261124060000 +0800" channel="mekkah">
     <title lang="ms">Siaran Langsung Makkah (Sesi 1)</title>
   </programme>
@@ -40,22 +28,22 @@
   <programme start="20261125180000 +0800" stop="20261126000000 +0800" channel="mekkah">
     <title lang="ms">Siaran Langsung Makkah (Sesi 4)</title>
   </programme>
+  <programme start="20261126000000 +0800" stop="20261126060000 +0800" channel="mekkah">
+    <title lang="ms">Siaran Langsung Makkah (Sesi 1)</title>
+  </programme>
+  <programme start="20261126060000 +0800" stop="20261126120000 +0800" channel="mekkah">
+    <title lang="ms">Siaran Langsung Makkah (Sesi 2)</title>
+  </programme>
+  <programme start="20261126120000 +0800" stop="20261126180000 +0800" channel="mekkah">
+    <title lang="ms">Siaran Langsung Makkah (Sesi 3)</title>
+  </programme>
+  <programme start="20261126180000 +0800" stop="20261127000000 +0800" channel="mekkah">
+    <title lang="ms">Siaran Langsung Makkah (Sesi 4)</title>
+  </programme>
   <channel id="alquran">
     <display-name lang="ms">Al-Quran Live</display-name>
     <icon src="https://www.mta.tv/images/channels/QuranLive.png"/>
   </channel>
-  <programme start="20261123000000 +0800" stop="20261123060000 +0800" channel="alquran">
-    <title lang="ms">Al-Quran Live (Sesi 1)</title>
-  </programme>
-  <programme start="20261123060000 +0800" stop="20261123120000 +0800" channel="alquran">
-    <title lang="ms">Al-Quran Live (Sesi 2)</title>
-  </programme>
-  <programme start="20261123120000 +0800" stop="20261123180000 +0800" channel="alquran">
-    <title lang="ms">Al-Quran Live (Sesi 3)</title>
-  </programme>
-  <programme start="20261123180000 +0800" stop="20261124000000 +0800" channel="alquran">
-    <title lang="ms">Al-Quran Live (Sesi 4)</title>
-  </programme>
   <programme start="20261124000000 +0800" stop="20261124060000 +0800" channel="alquran">
     <title lang="ms">Al-Quran Live (Sesi 1)</title>
   </programme>
@@ -78,6 +66,18 @@
     <title lang="ms">Al-Quran Live (Sesi 3)</title>
   </programme>
   <programme start="20261125180000 +0800" stop="20261126000000 +0800" channel="alquran">
+    <title lang="ms">Al-Quran Live (Sesi 4)</title>
+  </programme>
+  <programme start="20261126000000 +0800" stop="20261126060000 +0800" channel="alquran">
+    <title lang="ms">Al-Quran Live (Sesi 1)</title>
+  </programme>
+  <programme start="20261126060000 +0800" stop="20261126120000 +0800" channel="alquran">
+    <title lang="ms">Al-Quran Live (Sesi 2)</title>
+  </programme>
+  <programme start="20261126120000 +0800" stop="20261126180000 +0800" channel="alquran">
+    <title lang="ms">Al-Quran Live (Sesi 3)</title>
+  </programme>
+  <programme start="20261126180000 +0800" stop="20261127000000 +0800" channel="alquran">
     <title lang="ms">Al-Quran Live (Sesi 4)</title>
   </programme>
 </tv>
